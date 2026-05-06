@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Pre-Compose theme stub. Compose renders the real theme; this entry
+        only exists so the system can pick a window background and status-bar
+        scrim before the first frame is drawn.
+    -->
+    <style name="Theme.BowlTrack" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:statusBarColor">@color/background_primary</item>
+        <item name="android:navigationBarColor">@color/background_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

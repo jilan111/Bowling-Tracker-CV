@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Surfaces the share-card PNGs we render into cacheDir/share/.
+        Nothing else under cacheDir is exposed.
+    -->
+    <cache-path name="share" path="share/" />
+</paths>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors the canonical Compose tokens in ui/theme/Color.kt for the
+         small set of values needed before Compose takes over (window
+         background, splash colour, adaptive icon background). -->
+    <color name="background_primary">#0A0E1A</color>
+    <color name="accent_mint">#00D9A3</color>
+</resources>

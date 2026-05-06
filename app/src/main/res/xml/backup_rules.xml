@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- BowlTrack stores all video and session data in private storage. We
+         exclude the analysis cache because it can be regenerated on demand
+         and bloats the backup payload unnecessarily. -->
+    <exclude domain="file" path="cache/" />
+</full-backup-content>
