@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=BowlTrack&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=On-device%20CV%20bowling%20analytics%20for%20Android&descSize=16&descAlignY=60&animation=fadeIn" alt="banner" />
+
+<br/>
+
+[![Stars](https://img.shields.io/github/stars/jilan111/Bowling-Tracker-CV?style=for-the-badge&color=0d1117&labelColor=161b22&logo=star)](https://github.com/jilan111/Bowling-Tracker-CV/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/jilan111/Bowling-Tracker-CV?style=for-the-badge&color=0d1117&labelColor=161b22&logo=git)](https://github.com/jilan111/Bowling-Tracker-CV/commits)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0d1117?style=for-the-badge&labelColor=161b22)](LICENSE)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLOv8 TFLite](https://img.shields.io/badge/YOLOv8_TFLite-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
 # BowlTrack
 
 > Track. Knock. Analyze. — an offline Android app that watches a remote-control car play
